@@ -1,0 +1,17 @@
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+modelvenv/
+
+# OS or IDE files
+.DS_Store
+.idea/
+
+# LangChain / Chroma data
+chroma/
+Models/
